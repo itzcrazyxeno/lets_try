@@ -2,7 +2,7 @@
 const express=require("express")
 app=express()
 const cors = require("cors")
-const port = process.report.port || 3000
+const port = process.report.port || 3002
 const mysql = require("mysql2")
 
 
